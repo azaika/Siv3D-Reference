@@ -77,12 +77,18 @@ namespace s3d
 		{
 			return x * Pi;
 		}
-
+        
+        /// <summary>
+		/// 度数法からラジアンに変換します。
+		/// </summary>
 		constexpr double operator"" _deg(long double deg)
 		{
 			return static_cast<double>(deg) * 3.141592 / 180;
 		}
-
+        
+        /// <summary>
+		/// 度数法からラジアンに変換します。
+		/// </summary>
 		constexpr double operator"" _deg(unsigned long long deg)
 		{
 			return static_cast<double>(deg) * 3.141592 / 180;
