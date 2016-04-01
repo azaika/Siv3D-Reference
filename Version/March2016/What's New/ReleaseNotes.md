@@ -1,6 +1,5 @@
-﻿# 開発中の機能
+﻿# Siv3D March 2016 リリースノート
 
-## Siv3D March 2016 
 - 新機能
  - <b>32bit/64bit 両対応</b>
  - <b>パイプサーバー</b> (Thanks zenito9970)
@@ -23,9 +22,3 @@
  
 - その他
  - libwebp のバージョンを 0.4.3 から 0.5.0 に更新
-  
-## Planned for Siv3D March 2016
-- その他バグ修正
-  
-
-## Planned for Later
